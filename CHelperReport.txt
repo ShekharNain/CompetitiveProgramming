@@ -1,0 +1,2 @@
+54 src/codeforces/educational/r35/C - Three Garlands.task
+0

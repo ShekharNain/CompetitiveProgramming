@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="773f2210-b2b6-4887-9a12-6358cf89c8a9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ReduceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/temp/ReduceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task5C.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/practice/Task5C.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskE.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r454/TaskE.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r429/TaskA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r429/TaskB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r429/TaskD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskC.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/educational/r35/TaskC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/educational/r35/TaskD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commons/GraphNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1520#1521#0" expanded="true" />
+                <element signature="e#1548#1549#0" expanded="true" />
+                <element signature="e#1587#1588#0" expanded="true" />
+                <element signature="e#1621#1622#0" expanded="true" />
+                <element signature="method#equals#0;class#GraphNode#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+      <find>valueof</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/csacademy/r57/C.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r447/A.java" />
+        <option value="$PROJECT_DIR$/src/util/MathUtil.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r447/TaskC.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r447/input.txt" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r447/output.txt" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r447/Test.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r447/Test.task" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r449/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r449/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r449/TaskC.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r449/TaskD.java" />
+        <option value="$PROJECT_DIR$/src/util/PairIntString.java" />
+        <option value="$PROJECT_DIR$/src/util/PairIntInt.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/practice/Task5C.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r451/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r451/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r451/TaskC.java" />
+        <option value="$PROJECT_DIR$/src/temp/ReduceTest.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r451/TaskE.java" />
+        <option value="$PROJECT_DIR$/src/csacademy/r62/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/util/GraphNode.java" />
+        <option value="$PROJECT_DIR$/src/csacademy/r62/TaskD.java" />
+        <option value="$PROJECT_DIR$/src/commons/PairIntString.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r454/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r454/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/temp/TaskG.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r451/TaskD.java" />
+        <option value="$PROJECT_DIR$/src/commons/GraphEdge.java" />
+        <option value="$PROJECT_DIR$/src/temp/TimestampTest.java" />
+        <option value="$PROJECT_DIR$/src/csacademy/r62/TaskC.task" />
+        <option value="$PROJECT_DIR$/src/csacademy/r62/TaskC.java" />
+        <option value="$PROJECT_DIR$/src/temp/RecursionTest.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r454/TaskC.java" />
+        <option value="$PROJECT_DIR$/src/commons/Pair.java" />
+        <option value="$PROJECT_DIR$/src/csacademy/r62/TaskGraph.java" />
+        <option value="$PROJECT_DIR$/src/util/GraphUtil.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r454/TaskE.java" />
+        <option value="$PROJECT_DIR$/src/commons/Graph.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r429/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r429/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r429/TaskC.java" />
+        <option value="$PROJECT_DIR$/src/commons/GraphNode.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r455/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r455/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r455/TaskC.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/div2/r429/TaskD.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/educational/r35/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/educational/r35/TaskB.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/educational/r35/TaskD.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/educational/r35/TaskC.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="277" />
+    <option name="y" value="192" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/codeforces/educational/r35" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Task.C - Three Garlands">
+    <configuration name="A - ACM" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r445/A - ACM.task</taskConf>
+    </configuration>
+    <configuration name="A - Book Reading" type="Task" factoryName="Task">
+      <taskConf>src/coding/A - Book Reading.task</taskConf>
+    </configuration>
+    <configuration name="A - Generate Login" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r455/A - Generate Login.task</taskConf>
+    </configuration>
+    <configuration name="A - Generous Kefa" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r429/A - Generous Kefa.task</taskConf>
+    </configuration>
+    <configuration name="A - Masha and Bears" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r454/A - Masha and Bears.task</taskConf>
+    </configuration>
+    <configuration name="A - Nearest Minimums" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r35/A - Nearest Minimums.task</taskConf>
+    </configuration>
+    <configuration name="A - QAQ" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/A - QAQ.task</taskConf>
+    </configuration>
+    <configuration name="A - Rounding" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r451/A - Rounding.task</taskConf>
+    </configuration>
+    <configuration name="A - Scarborough Fair" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r449/A - Scarborough Fair.task</taskConf>
+    </configuration>
+    <configuration name="A" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/A.task</taskConf>
+    </configuration>
+    <configuration name="B - Chtholly's request" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r449/B - Chtholly's request.task</taskConf>
+    </configuration>
+    <configuration name="B - Godsend" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r429/B - Godsend.task</taskConf>
+    </configuration>
+    <configuration name="B - Japanese Crosswords Strike Back" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r31/B - Japanese Crosswords Strike Back.task</taskConf>
+    </configuration>
+    <configuration name="B - Proper Nutrition" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r451/B - Proper Nutrition.task</taskConf>
+    </configuration>
+    <configuration name="B - Ralph And His Magic Field" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/B - Ralph And His Magic Field.task</taskConf>
+    </configuration>
+    <configuration name="B - Segments" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r455/B - Segments.task</taskConf>
+    </configuration>
+    <configuration name="B - Tic-Tac-Toe" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r454/B - Tic-Tac-Toe.task</taskConf>
+    </configuration>
+    <configuration name="B - Two Cakes" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r35/B - Two Cakes.task</taskConf>
+    </configuration>
+    <configuration name="B - Vlad and Cafes" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r445/B - Vlad and Cafes.task</taskConf>
+    </configuration>
+    <configuration name="B" type="Task" factoryName="Task">
+      <taskConf>src/csacademy/r57/B.task</taskConf>
+    </configuration>
+    <configuration name="C - Bertown Subway" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r31/C - Bertown Subway.task</taskConf>
+    </configuration>
+    <configuration name="C - Leha and Function" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r429/C - Leha and Function.task</taskConf>
+    </configuration>
+    <configuration name="C - Marco and GCD Sequence" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/C - Marco and GCD Sequence.task</taskConf>
+    </configuration>
+    <configuration name="C - Nephren gives a riddle" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r449/C - Nephren gives a riddle.task</taskConf>
+    </configuration>
+    <configuration name="C - Petya and Catacombs" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r445/C - Petya and Catacombs.task</taskConf>
+    </configuration>
+    <configuration name="C - Phone Numbers" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r451/C - Phone Numbers.task</taskConf>
+    </configuration>
+    <configuration name="C - Python Indentation" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r455/C - Python Indentation.task</taskConf>
+    </configuration>
+    <configuration name="C - Shockers" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r454/C - Shockers.task</taskConf>
+    </configuration>
+    <configuration name="C - Three Garlands" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r35/C - Three Garlands.task</taskConf>
+    </configuration>
+    <configuration name="C" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/C.task</taskConf>
+    </configuration>
+    <configuration name="D - Alarm Clock" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r451/D - Alarm Clock.task</taskConf>
+    </configuration>
+    <configuration name="D - Boxes And Balls" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r31/D - Boxes And Balls.task</taskConf>
+    </configuration>
+    <configuration name="D - Colorful Points" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r455/D - Colorful Points.task</taskConf>
+    </configuration>
+    <configuration name="D - Inversion Counting" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r35/D - Inversion Counting.task</taskConf>
+    </configuration>
+    <configuration name="D - Ithea Plays With Chtholly" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r449/D - Ithea Plays With Chtholly.task</taskConf>
+    </configuration>
+    <configuration name="D - Leha and another game about graph" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r429/D - Leha and another game about graph.task</taskConf>
+    </configuration>
+    <configuration name="D - Ralph And His Tour in Binary Country" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/D - Ralph And His Tour in Binary Country.task</taskConf>
+    </configuration>
+    <configuration name="D - Restoration of string" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r445/D - Restoration of string.task</taskConf>
+    </configuration>
+    <configuration name="D - Seating of Students" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r454/D - Seating of Students.task</taskConf>
+    </configuration>
+    <configuration name="D" type="Task" factoryName="Task">
+      <taskConf>src/csacademy/r55/D.task</taskConf>
+    </configuration>
+    <configuration name="E - Binary Matrix" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r31/E - Binary Matrix.task</taskConf>
+    </configuration>
+    <configuration name="E - Coprocessor" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r455/E - Coprocessor.task</taskConf>
+    </configuration>
+    <configuration name="E - Maximum Element" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r445/E - Maximum Element.task</taskConf>
+    </configuration>
+    <configuration name="E - On the Bench" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r429/E - On the Bench.task</taskConf>
+    </configuration>
+    <configuration name="E - Party" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r454/E - Party.task</taskConf>
+    </configuration>
+    <configuration name="E - Ralph and Mushrooms" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/E - Ralph and Mushrooms.task</taskConf>
+    </configuration>
+    <configuration name="E - Squares and not squares" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r451/E - Squares and not squares.task</taskConf>
+    </configuration>
+    <configuration name="E - Stack Sorting" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r35/E - Stack Sorting.task</taskConf>
+    </configuration>
+    <configuration name="E - Willem, Chtholly and Seniorious" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r449/E - Willem, Chtholly and Seniorious.task</taskConf>
+    </configuration>
+    <configuration name="F - AND-permutations" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r455/F - AND-permutations.task</taskConf>
+    </configuration>
+    <configuration name="F - Anti-Palindromize" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r31/F - Anti-Palindromize.task</taskConf>
+    </configuration>
+    <configuration name="F - Power Tower" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r454/F - Power Tower.task</taskConf>
+    </configuration>
+    <configuration name="F - Restoring the Expression" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r451/F - Restoring the Expression.task</taskConf>
+    </configuration>
+    <configuration name="F - Symmetric Projections" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r445/F - Symmetric Projections.task</taskConf>
+    </configuration>
+    <configuration name="F - Tree Destruction" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r35/F - Tree Destruction.task</taskConf>
+    </configuration>
+    <configuration name="G - Mass Change Queries" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/educational/r35/G - Mass Change Queries.task</taskConf>
+    </configuration>
+    <configuration name="ReduceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="temp.ReduceTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="Task5C" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/practice/Task5C.task</taskConf>
+    </configuration>
+    <configuration name="TaskA" type="Task" factoryName="Task">
+      <taskConf>src/csacademy/r62/TaskA.task</taskConf>
+    </configuration>
+    <configuration name="TaskC" type="Task" factoryName="Task">
+      <taskConf>src/csacademy/r62/TaskC.task</taskConf>
+    </configuration>
+    <configuration name="TaskD" type="Task" factoryName="Task">
+      <taskConf>src/csacademy/r62/TaskD.task</taskConf>
+    </configuration>
+    <configuration name="TaskG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="temp.TaskG" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="Temp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Temp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="temp.Temp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Task" factoryName="Task">
+      <taskConf>src/codeforces/div2/r447/Test.task</taskConf>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="65">
+      <item index="0" class="java.lang.String" itemvalue="Task.B - Japanese Crosswords Strike Back" />
+      <item index="1" class="java.lang.String" itemvalue="Task.C - Bertown Subway" />
+      <item index="2" class="java.lang.String" itemvalue="Task.D - Boxes And Balls" />
+      <item index="3" class="java.lang.String" itemvalue="Task.E - Binary Matrix" />
+      <item index="4" class="java.lang.String" itemvalue="Task.F - Anti-Palindromize" />
+      <item index="5" class="java.lang.String" itemvalue="Task.A - Book Reading" />
+      <item index="6" class="java.lang.String" itemvalue="Task.D" />
+      <item index="7" class="java.lang.String" itemvalue="Task.A - ACM" />
+      <item index="8" class="java.lang.String" itemvalue="Task.B - Vlad and Cafes" />
+      <item index="9" class="java.lang.String" itemvalue="Task.C - Petya and Catacombs" />
+      <item index="10" class="java.lang.String" itemvalue="Task.D - Restoration of string" />
+      <item index="11" class="java.lang.String" itemvalue="Task.E - Maximum Element" />
+      <item index="12" class="java.lang.String" itemvalue="Task.F - Symmetric Projections" />
+      <item index="13" class="java.lang.String" itemvalue="Task.B" />
+      <item index="14" class="java.lang.String" itemvalue="Task.A" />
+      <item index="15" class="java.lang.String" itemvalue="Task.C" />
+      <item index="16" class="java.lang.String" itemvalue="Task.A - QAQ" />
+      <item index="17" class="java.lang.String" itemvalue="Task.B - Ralph And His Magic Field" />
+      <item index="18" class="java.lang.String" itemvalue="Task.C - Marco and GCD Sequence" />
+      <item index="19" class="java.lang.String" itemvalue="Task.D - Ralph And His Tour in Binary Country" />
+      <item index="20" class="java.lang.String" itemvalue="Task.E - Ralph and Mushrooms" />
+      <item index="21" class="java.lang.String" itemvalue="Task.Test" />
+      <item index="22" class="java.lang.String" itemvalue="Task.A - Scarborough Fair" />
+      <item index="23" class="java.lang.String" itemvalue="Task.B - Chtholly's request" />
+      <item index="24" class="java.lang.String" itemvalue="Task.C - Nephren gives a riddle" />
+      <item index="25" class="java.lang.String" itemvalue="Task.D - Ithea Plays With Chtholly" />
+      <item index="26" class="java.lang.String" itemvalue="Task.E - Willem, Chtholly and Seniorious" />
+      <item index="27" class="java.lang.String" itemvalue="Task.Task5C" />
+      <item index="28" class="java.lang.String" itemvalue="Task.B - Proper Nutrition" />
+      <item index="29" class="java.lang.String" itemvalue="Task.C - Phone Numbers" />
+      <item index="30" class="java.lang.String" itemvalue="Task.D - Alarm Clock" />
+      <item index="31" class="java.lang.String" itemvalue="Task.E - Squares and not squares" />
+      <item index="32" class="java.lang.String" itemvalue="Task.F - Restoring the Expression" />
+      <item index="33" class="java.lang.String" itemvalue="Application.Temp" />
+      <item index="34" class="java.lang.String" itemvalue="Application.Temp (1)" />
+      <item index="35" class="java.lang.String" itemvalue="Application.ReduceTest" />
+      <item index="36" class="java.lang.String" itemvalue="Task.A - Rounding" />
+      <item index="37" class="java.lang.String" itemvalue="Task.TaskA" />
+      <item index="38" class="java.lang.String" itemvalue="Task.TaskD" />
+      <item index="39" class="java.lang.String" itemvalue="Task.A - Masha and Bears" />
+      <item index="40" class="java.lang.String" itemvalue="Task.B - Tic-Tac-Toe" />
+      <item index="41" class="java.lang.String" itemvalue="Task.C - Shockers" />
+      <item index="42" class="java.lang.String" itemvalue="Task.D - Seating of Students" />
+      <item index="43" class="java.lang.String" itemvalue="Task.E - Party" />
+      <item index="44" class="java.lang.String" itemvalue="Task.F - Power Tower" />
+      <item index="45" class="java.lang.String" itemvalue="Application.TaskG" />
+      <item index="46" class="java.lang.String" itemvalue="Task.TaskC" />
+      <item index="47" class="java.lang.String" itemvalue="Task.A - Generous Kefa" />
+      <item index="48" class="java.lang.String" itemvalue="Task.B - Godsend" />
+      <item index="49" class="java.lang.String" itemvalue="Task.C - Leha and Function" />
+      <item index="50" class="java.lang.String" itemvalue="Task.D - Leha and another game about graph" />
+      <item index="51" class="java.lang.String" itemvalue="Task.E - On the Bench" />
+      <item index="52" class="java.lang.String" itemvalue="Task.A - Generate Login" />
+      <item index="53" class="java.lang.String" itemvalue="Task.B - Segments" />
+      <item index="54" class="java.lang.String" itemvalue="Task.C - Python Indentation" />
+      <item index="55" class="java.lang.String" itemvalue="Task.D - Colorful Points" />
+      <item index="56" class="java.lang.String" itemvalue="Task.E - Coprocessor" />
+      <item index="57" class="java.lang.String" itemvalue="Task.F - AND-permutations" />
+      <item index="58" class="java.lang.String" itemvalue="Task.A - Nearest Minimums" />
+      <item index="59" class="java.lang.String" itemvalue="Task.B - Two Cakes" />
+      <item index="60" class="java.lang.String" itemvalue="Task.C - Three Garlands" />
+      <item index="61" class="java.lang.String" itemvalue="Task.D - Inversion Counting" />
+      <item index="62" class="java.lang.String" itemvalue="Task.E - Stack Sorting" />
+      <item index="63" class="java.lang.String" itemvalue="Task.F - Tree Destruction" />
+      <item index="64" class="java.lang.String" itemvalue="Task.G - Mass Change Queries" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.TaskG" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReduceTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Temp (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Temp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="773f2210-b2b6-4887-9a12-6358cf89c8a9" name="Default" comment="" />
+      <created>1509285146107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509285146107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33900228" sideWeight="0.48958334" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276644" sideWeight="0.53541666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3276644" sideWeight="0.46458334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879817" sideWeight="0.49583334" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39909297" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeforces/div2/r447/TaskC.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeforces/div2/r449/TaskB.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeforces/div2/r451/TaskC.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeforces/div2/r451/TaskE.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csacademy/r62/TaskD.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/temp/TaskG.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeforces/div2/r454/TaskE.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="59" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1046" column="12" lean-forward="false" selection-start-line="1046" selection-start-column="12" selection-end-line="1046" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11613">
+          <caret line="580" column="0" lean-forward="false" selection-start-line="580" selection-start-column="0" selection-end-line="580" selection-end-column="0" />
+          <folding>
+            <element signature="e#26878#26879#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/stream/DistinctOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6657">
+          <caret line="385" column="0" lean-forward="false" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
+          <folding>
+            <element signature="e#14367#14368#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r451/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="40" column="108" lean-forward="false" selection-start-line="40" selection-start-column="108" selection-end-line="40" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r451/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r451/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r449/TaskD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r451/TaskE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/PairIntString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/PairIntInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="62" column="37" lean-forward="false" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r454/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp/TaskG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r454/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csacademy/r62/TaskD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r451/TaskD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/GraphEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1057" column="22" lean-forward="false" selection-start-line="1057" selection-start-column="22" selection-end-line="1057" selection-end-column="22" />
+          <folding>
+            <element signature="e#7061#7062#0" expanded="false" />
+            <element signature="e#7131#7132#0" expanded="false" />
+            <element signature="e#42078#42079#0" expanded="false" />
+            <element signature="e#42112#42113#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="563" column="0" lean-forward="false" selection-start-line="563" selection-start-column="0" selection-end-line="563" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp/TimestampTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csacademy/r62/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csacademy/r62/TaskGraph.task">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp/RecursionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/FastScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1544" column="15" lean-forward="false" selection-start-line="1544" selection-start-column="15" selection-end-line="1544" selection-end-column="15" />
+          <folding>
+            <element signature="e#61455#61456#0" expanded="false" />
+            <element signature="e#61492#61493#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r454/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csacademy/r62/TaskGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/GraphUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csacademy/r57/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp/ReduceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/practice/Task5C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r454/TaskE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r429/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/GraphNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1520#1521#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1587#1588#0" expanded="true" />
+            <element signature="e#1621#1622#0" expanded="true" />
+            <element signature="method#equals#0;class#GraphNode#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r455/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r455/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r455/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r429/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r429/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/div2/r429/TaskD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/educational/r35/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/educational/r35/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/educational/r35/TaskD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/educational/r35/TaskC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Coding</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>CHelper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
